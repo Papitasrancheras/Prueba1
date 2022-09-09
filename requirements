@@ -3,4 +3,4 @@ altair
 pandas
 numpy
 plotly
-matplotlib
+matplotlib.pyplot
